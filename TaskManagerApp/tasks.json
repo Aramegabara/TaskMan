@@ -1,0 +1,27 @@
+[
+  {
+    "Title": "Create tasker",
+    "Description": "App to create and show tasks",
+    "Priority": 1
+  },
+  {
+    "Title": "Fix login bug",
+    "Description": "Error when user enters wrong password",
+    "Priority": 2
+  },
+  {
+    "Title": "Update README",
+    "Description": "Add installation instructions and screenshots",
+    "Priority": 4
+  },
+  {
+    "Title": "Design new logo",
+    "Description": "Logo for website and mobile app",
+    "Priority": 3
+  },
+  {
+    "Title": "Test task manager",
+    "Description": "Manually test add/edit/delete features",
+    "Priority": 2
+  }
+]
